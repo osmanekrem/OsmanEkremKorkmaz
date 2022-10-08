@@ -13,6 +13,7 @@
 <p align="center">
 <a href="https://instagram.com/korkmazosmanekrem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="korkmazosmanekrem" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/osmanekrem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="osmanekrem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/osman-ekrem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osman-ekrem" height="30" width="40" /></a>
 </p>
 
 <ul align="center">
