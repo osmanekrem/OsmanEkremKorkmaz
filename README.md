@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osman</h1>
 
-<h3 align="center">I am a Muslim, Turk, Student and Football Fan</h3>
+<h3 align="center">I am a Muslim, Web Developer and Football Fan</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=osmanekremkorkmaz&label=Profile%20views&color=0e75b6&style=flat" alt="osmanekremkorkmaz" /> </p>
 
@@ -18,10 +18,7 @@
 
 <ul align="center">
   <div align="center">
-    🌱 I’m currently learning <strong>GraphQL</strong>
-  </div>
-  <div align="center">
-    📫 How to reach me <a href="mailto: korkmazosmanekrem@gmail.com">korkmazosmanekrem@gmail.com</a>
+    📫 You can reach me by <a href="mailto: korkmazosmanekrem@gmail.com">korkmazosmanekrem@gmail.com</a>
   </div>  
  </ul>
   
